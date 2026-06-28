@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-menu-react/static/css/main.388897ab.css",
+    "main.js": "/digital-menu-react/static/js/main.2c44db89.js",
+    "static/js/453.d70258f9.chunk.js": "/digital-menu-react/static/js/453.d70258f9.chunk.js",
+    "index.html": "/digital-menu-react/index.html",
+    "main.388897ab.css.map": "/digital-menu-react/static/css/main.388897ab.css.map",
+    "main.2c44db89.js.map": "/digital-menu-react/static/js/main.2c44db89.js.map",
+    "453.d70258f9.chunk.js.map": "/digital-menu-react/static/js/453.d70258f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388897ab.css",
+    "static/js/main.2c44db89.js"
+  ]
+}
