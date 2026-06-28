@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.btn-custom-orange {
+  background-color: #EC6530;
+  color: white;
+  border: none;
+}
+
+.btn-custom-orange:hover {
+  background-color: #d85428;
+  color: white;
+}
